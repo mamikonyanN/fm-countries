@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src",
+    "jsx": "preserve",
+    "module": "commonjs",
+    "target": "ES2022"
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules", "**/node_modules/*"]
+}
